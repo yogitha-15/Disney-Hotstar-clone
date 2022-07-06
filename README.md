@@ -1,6 +1,15 @@
 # Disney-Hotstar-clone
 
 ## Tech Stacks Used :
-#### 1.HTML
-#### 2.CSS
-#### 3.JavaScript
+* HTML
+* CSS
+* JavaScript
+
+## Platform Used:
+* Codesandbox
+
+## Features Used:
+* carousel slider created by using JavaScript.
+* card with background video.
+* whenever we hover on card it display movie name and its description.
+* previous and next buttons slidind effect created by using JavaScript.
